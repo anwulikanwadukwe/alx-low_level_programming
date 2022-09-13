@@ -9,7 +9,6 @@
 */
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a place of art,\n");
 	char c;
 	int i;
 	long li;
