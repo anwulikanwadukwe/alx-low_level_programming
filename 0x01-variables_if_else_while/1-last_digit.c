@@ -1,6 +1,6 @@
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include <stdio.h>
 /**
 * main - print if the number is postive, zero, or negative
 *
@@ -30,4 +30,4 @@ else
 	printf("Last digit of %d is %d and is less than 6 and not 0\n", n, l);
 }
 return (0);
-}[B[B
+}
